@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ba7da473b7c4330080bc04c6ee11a900</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cfg_terraform">
+    <sn_cfg_terraform action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <base_dir/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <credential display_value="TerraformServerCredential">0f17a87fb784330080bc04c6ee11a90a</credential>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_default>false</is_default>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>Terraform Linux Server</name>
+        <object_id>573085</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <organization>Default</organization>
+        <owned_by/>
+        <po_number/>
+        <provider display_value="Terraform ">d879c22a73fb2300c5a4d65ee2f6a7a6</provider>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <server_type>1</server_type>
+        <service_category display_value="Config Management">731f86900b2322004b1b812f15673ade</service_category>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>sn_cfg_terraform</sys_class_name>
+        <sys_class_path>/!!/$#/!!/!(</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 09:43:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba7da473b7c4330080bc04c6ee11a900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 09:43:14</sys_updated_on>
+        <unverified>false</unverified>
+        <url>3.3.3.3</url>
+        <vendor/>
+        <version/>
+        <warranty_expiration/>
+    </sn_cfg_terraform>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 09:45:39</sys_created_on>
+        <sys_id>5e0ee873b7c4330080bc04c6ee11a91b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terraform Linux Server</sys_name>
+        <sys_package display_value="ibmsetup" source="sn_ibmsetup">4efc4d970bb32300748f852c15673af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ibmsetup">4efc4d970bb32300748f852c15673af2</sys_scope>
+        <sys_update_name>sys_metadata_link_5e0ee873b7c4330080bc04c6ee11a91b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 09:45:39</sys_updated_on>
+        <tablename>sn_cfg_terraform</tablename>
+    </sys_metadata_link>
+</record_update>
