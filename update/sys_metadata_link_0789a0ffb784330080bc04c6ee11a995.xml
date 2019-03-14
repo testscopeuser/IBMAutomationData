@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
     <sys_metadata_link action="INSERT_OR_UPDATE">
         <directory>update</directory>
-        <documentkey>8d2b0ddf0b732300748f852c15673a45</documentkey>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_ibm_credentials">
-    <sn_ibm_credentials action="INSERT_OR_UPDATE">
+        <documentkey>2ade0cb3b744330080bc04c6ee11a988</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ibm_credentials">
+    <ibm_credentials action="INSERT_OR_UPDATE">
         <active>true</active>
         <applies_to>all</applies_to>
         <authentication_key/>
         <authentication_protocol/>
-        <bluemix_key>qyPcY3ikTYs=</bluemix_key>
-        <classification>sn_ibm</classification>
+        <bluemix_key>NuIm1rMNMeNPcgQdY1Gv3Q==</bluemix_key>
+        <classification>ibm</classification>
         <mid_list/>
-        <name>Ibm credentials</name>
+        <name>IBMCredential</name>
         <order>100</order>
         <password/>
         <privacy_key/>
         <privacy_protocol/>
-        <softlayer_key>7K8fJK/bKd4=</softlayer_key>
-        <softlayer_user>SL1823339</softlayer_user>
+        <softlayer_key>kIuYC8fGDlU=</softlayer_key>
+        <softlayer_user>SL1asdsadsa</softlayer_user>
         <ssh_passphrase/>
         <ssh_private_key/>
-        <sys_class_name>sn_ibm_credentials</sys_class_name>
+        <sys_class_name>ibm_credentials</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-02-28 12:20:33</sys_created_on>
+        <sys_created_on>2019-03-14 07:29:49</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>8d2b0ddf0b732300748f852c15673a45</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>2ade0cb3b744330080bc04c6ee11a988</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-28 12:45:27</sys_updated_on>
+        <sys_updated_on>2019-03-14 09:25:52</sys_updated_on>
         <tag/>
-        <type>sn_ibm</type>
+        <type>ibm</type>
         <user_name/>
-    </sn_ibm_credentials>
+    </ibm_credentials>
 </record_update>
 ]]></payload>
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-02-28 12:28:36</sys_created_on>
-        <sys_id>f01dc1d70bb32300748f852c15673a1d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Ibm credentials</sys_name>
+        <sys_created_on>2019-03-14 09:26:03</sys_created_on>
+        <sys_id>0789a0ffb784330080bc04c6ee11a995</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IBMCredential</sys_name>
         <sys_package display_value="ibmsetup" source="sn_ibmsetup">4efc4d970bb32300748f852c15673af2</sys_package>
         <sys_policy/>
         <sys_scope display_value="ibmsetup">4efc4d970bb32300748f852c15673af2</sys_scope>
-        <sys_update_name>sys_metadata_link_f01dc1d70bb32300748f852c15673a1d</sys_update_name>
+        <sys_update_name>sys_metadata_link_0789a0ffb784330080bc04c6ee11a995</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-02-28 12:45:37</sys_updated_on>
+        <sys_updated_on>2019-03-14 09:26:03</sys_updated_on>
         <tablename>discovery_credentials</tablename>
     </sys_metadata_link>
 </record_update>

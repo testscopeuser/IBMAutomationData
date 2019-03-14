@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0f17a87fb784330080bc04c6ee11a90a</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ssh_private_key_credentials">
+    <ssh_private_key_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <classification>ssh</classification>
+        <mid_list/>
+        <name>TerraformServerCredential</name>
+        <order>100</order>
+        <password>BiEMFVqbCuh7MaSa+EyjGA==</password>
+        <privacy_key/>
+        <privacy_protocol/>
+        <ssh_passphrase>BiEMFVqbCuh7MaSa+EyjGA==</ssh_passphrase>
+        <ssh_private_key>3fcT/xFPQYs9MYkmmbwyHsLSqCFkOSZHluiOpCBiveP4b5IxSweJVLktvpget3sU0jGYH+hgI2wFOnh/k7YsZWDTBbgYOlF8EKDpFvjzTJwm8lHVH+YgQB27VO9chQaEAsaovMW6m82oNyOzyuZtXwQ6t/0NfUS0UXPutRSpm+DBn+3XrWzKBA==</ssh_private_key>
+        <sys_class_name>ssh_private_key_credentials</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 09:16:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f17a87fb784330080bc04c6ee11a90a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 09:24:29</sys_updated_on>
+        <tag/>
+        <type>ssh_private_key</type>
+        <user_name>admin</user_name>
+    </ssh_private_key_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-14 09:25:26</sys_created_on>
+        <sys_id>8a6968bfb784330080bc04c6ee11a9b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TerraformServerCredential</sys_name>
+        <sys_package display_value="ibmsetup" source="sn_ibmsetup">4efc4d970bb32300748f852c15673af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ibmsetup">4efc4d970bb32300748f852c15673af2</sys_scope>
+        <sys_update_name>sys_metadata_link_8a6968bfb784330080bc04c6ee11a9b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-14 09:25:26</sys_updated_on>
+        <tablename>discovery_credentials</tablename>
+    </sys_metadata_link>
+</record_update>
