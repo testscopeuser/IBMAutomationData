@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>ee4a79c2b770730080bc04c6ee11a9d1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_availability_zone">
+    <cmdb_ci_availability_zone action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attributes/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source>ServiceNow</discovery_source>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <fault_count>0</fault_count>
+        <first_discovered>2019-04-15 11:36:32</first_discovered>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered>2019-04-15 11:42:11</last_discovered>
+        <lease_id/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>dal13</name>
+        <object_id>1854895</object_id>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <server/>
+        <short_description>Dallas 13</short_description>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <state>available</state>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_availability_zone</sys_class_name>
+        <sys_class_path>/!!/!)/#-</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-15 11:36:32</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee4a79c2b770730080bc04c6ee11a9d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-15 11:42:11</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor/>
+        <warranty_expiration/>
+    </cmdb_ci_availability_zone>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-15 12:15:41</sys_created_on>
+        <sys_id>8843028ab770730080bc04c6ee11a9b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dal13</sys_name>
+        <sys_package display_value="ibmsetup" source="sn_ibmsetup">4efc4d970bb32300748f852c15673af2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ibmsetup">4efc4d970bb32300748f852c15673af2</sys_scope>
+        <sys_update_name>sys_metadata_link_8843028ab770730080bc04c6ee11a9b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-15 12:15:41</sys_updated_on>
+        <tablename>cmdb_ci_availability_zone</tablename>
+    </sys_metadata_link>
+</record_update>
